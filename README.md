@@ -1,5 +1,18 @@
 # Whale Alerts Handler
 
+<div align="center">
+  <img src="icon.svg" alt="Whale Alerts" width="64" height="64">
+  <h3>Whale Alerts Handler for MindsDB</h3>
+  <p>Access large cryptocurrency transaction alerts and blockchain whale movements</p>
+  
+  ![Version](https://img.shields.io/badge/version-0.1.0-blue)
+  ![Type](https://img.shields.io/badge/type-Data%20Handler-green)
+  ![Status](https://img.shields.io/badge/status-Active-brightgreen)
+  ![Authentication](https://img.shields.io/badge/auth-API%20Key-orange)
+</div>
+
+---
+
 The Whale Alerts handler for MindsDB provides seamless integration with the Whale Alert API, enabling you to access large cryptocurrency transaction alerts and blockchain whale movements directly from your MindsDB instance.
 
 ## Implementation
@@ -249,4 +262,15 @@ The handler includes comprehensive error handling for:
 - USD values are calculated at transaction time
 - Some addresses may not have owner information
 - Transaction amounts are in the native cryptocurrency units
-- The API updates continuously with new whale movements 
+- The API updates continuously with new whale movements
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by XplainCrypto Platform</p>
+  <p>
+    <a href="https://whale-alert.io/">Whale Alert</a> • 
+    <a href="https://mindsdb.com/">MindsDB</a> • 
+    <a href="https://github.com/mindsdb/mindsdb">GitHub</a>
+  </p>
+</div> 
